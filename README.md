@@ -10,7 +10,7 @@ A high-performance, distributed key-value store built in Rust, designed for reli
 
 ## Product Requirements Document
 
-For detailed requirements, architecture decisions, and feature specifications, please refer to the [Product Requirements Document](./docs/PRD.md).
+For detailed requirements, architecture decisions, and feature specifications, please refer to the [Product Requirements Document](./docs/PRD-Distributed-KV-Store.md).
 
 ## Project Structure
 
